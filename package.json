@@ -1,0 +1,29 @@
+{
+  "name": "imgsabslay",
+  "version": "1.0.0",
+  "description": "https://github.com/gussamer/imgsabslay.git",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gussamer/imgsabslay.git"
+  },
+  "keywords": [
+    "image",
+    "search"
+  ],
+  "author": "Angus Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gussamer/imgsabslay/issues"
+  },
+  "homepage": "https://github.com/gussamer/imgsabslay#readme",
+  "engines": {
+    "node": "^4.4.5"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
